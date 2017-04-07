@@ -1,5 +1,5 @@
 ## Ana Maria Suciu
-Curious and ambitious, highly motivated and driven by process and time-efficiency values, my career choice of becoming a developer rests on my research on digitalization. If I'd be a hash, my key - values would be {innovation: :smart cities, civic tech: :user generated data, digitalization: sharing economy}. I am looking forward to adding new pairs to my hash. 
+Curious, highly motivated and driven by process and time-efficiency values, my career choice of becoming a developer rests on my research on digitalization. If I'd be a hash, my key - values would be {innovation: :smart cities, civic tech: :user generated data, digitalization: sharing economy}. I am looking forward to adding new pairs to my hash. 
 
 My professional background is in the field of civic enagement, policy and advocacy. I honestly enjoyed my positions in non-profits, as I got to fulfill many roles, being at the same time researcher, data analyst, PR,  trainer, communication person and negotiator dealing with politicians and press. In my 8 years of experience, I started social businesses, trained community organizers, campaigned for social change. Now it's time to change the world in a different way.
 
