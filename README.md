@@ -44,12 +44,11 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 **ENNA (European Network of National Civil Society Associations), Brussels, Belgium** (July 2016 to February 2017)    
 *Policy and Advocacy Officer*  
 **MACAB (National Association of Citizens Advice Bureaux), Bucharest, Romania** (December 2009 to September 2014)   
-*Strategic Development Officer*
-
+*Strategic Development Officer* 
 **Public Policy Center** (2007 to 2009)   
 *Project Manager* 
 
 ## Hobbies and interests
-  **World politics and debates**
-  **Improvization theatre** 
+ **World politics and debates**
+ **Improvization theatre** 
 
