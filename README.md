@@ -46,7 +46,12 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 **NACAB (National Association of Citizens Advice Bureaux), Bucharest, Romania** (December 2009 to September 2014)   
 *Strategic Development Officer*   
 **Public Policy Center** (2007 to 2009)     
-*Project Manager*   
+*Project Manager*  
+
+## My online self
+*My LinkedIn profile: https://www.linkedin.com/in/anamariasuciu/*  
+*My learning to code diary: https://medium.com/@anamariasuciu*
+*On Twitter: @anamariasuciu*
 
 ## Hobbies and interests
  **World politics and debates**  
