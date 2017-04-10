@@ -49,9 +49,9 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 *Project Manager*  
 
 ## My online self
-*My LinkedIn profile: https://www.linkedin.com/in/anamariasuciu/*  
-*My learning to code diary: https://medium.com/@anamariasuciu*
-*On Twitter: @anamariasuciu*
+*My LinkedIn profile: https://www.linkedin.com/in/anamariasuciu/*    
+*My learning to code diary: https://medium.com/@anamariasuciu*    
+*On Twitter: @anamariasuciu*  
 
 ## Hobbies and interests
  **World politics and debates**  
