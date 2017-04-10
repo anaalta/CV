@@ -12,6 +12,7 @@ My dream developer job is within an agency or department working on innovating a
 I developed my PM skills within non-profits, contributing to projects from inception and fundraising to final delivery. I am particulary fond of careful planning and spending and I think regular team meetings and constant monitoring and evaluation both internally and with stakeholders are key to successul delivery. As a PM, I lead teams of up to 10 people, I managed relationships with international donors and partners, I kept things within the budget and dealt with bureaucracy. 
 
 #### Data analytics & reporting
+This is by far the most useful skill in any job I held so far. It helped me deliver actionable research and document startegy.
 My quantitative skills are in R, SPSS and STATA, with intermediate knowledge of Tableau for visualization.
 Here's a sample of my quant research: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874861
 
@@ -27,9 +28,7 @@ For both NACAB and ENNA, I identified industry trends and developed projects tha
 ## Education
 
 #### Makers Academy (April-June 2017)
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+Makers Academy is an intensive 12 weeks development bootcamp. With them, my curiosity and passion for code transformed me in a independent learner, problem-solver, a self-reliant junior developer with skills in:
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
@@ -51,5 +50,5 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 
 ## Hobbies and interests
   **World politics and debates**
-  **Improvization theatre* 
+  **Improvization theatre** 
 
