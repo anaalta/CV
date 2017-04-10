@@ -1,36 +1,32 @@
 ## Ana Maria Suciu
-Curious, highly motivated and driven by process and time-efficiency values, my career choice of becoming a developer rests on my research on digitalization. If I'd be a hash, my key - values would be {innovation: :smart cities, civic tech: :user generated data, digitalization: sharing economy}. I am looking forward to adding new pairs to my hash. 
+Curious, highly motivated and driven by process and time-efficiency values, my career choice of becoming a developer rests on my research on digitalization. A problem-solver at heart, I am thriving on challenges and I love to share ideas and build on partnerships.
+If I'd be a hash, my key - values would be {innovation: :smart cities, civic tech: :user generated data, digitalization: sharing economy}. 
 
-My professional background is in the field of civic enagement, policy and advocacy. I honestly enjoyed my positions in non-profits, as I got to fulfill many roles, being at the same time researcher, data analyst, PR,  trainer, communication person and negotiator dealing with politicians and press. In my 8 years of experience, I started social businesses, trained community organizers, campaigned for social change. Now it's time to change the world in a different way.
+My professional background is in the field of civic enagement, policy and advocacy. I honestly enjoyed my positions in non-profits, as I got to fulfill many roles, being at the same time researcher, data analyst, PR,  trainer and negotiator dealing with politicians and press. In my 8 years of experience, I started social businesses, trained community organizers, campaigned for social change. 
 
-My dream job is within an entity that values impact, inclusiveness and sustainable growth. A problem-solver at heart, I am thriving on challenges and I love to share ideas, thus co-production, co-creation and loads of brainstorming make me my best self. 
+My dream developer job is within an agency or department working on innovating and digitalzing processes for clients, a place where we value impact, inclusiveness and sustainable growth.
 
 ## Skills
 
 #### Project management
+I developed my PM skills within non-profits, contributing to projects from inception and fundraising to final delivery. I am particulary fond of careful planning and spending and I think regular team meetings and constant monitoring and evaluation both internally and with stakeholders are key to successul delivery. As a PM, I lead teams of up to 10 people, I managed relationships with international donors and partners, I kept things within the budget and dealt with bureaucracy. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Data analytics & reporting
+My quantitative skills are in R, SPSS and STATA, with intermediate knowledge of Tableau for visualization.
+Here's a sample of my quant research: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874861
 
-- Experience
-- Achievements
-- Evidence
+#### Training and facilitating
+I co-designed training courses and workshops to help build capacity for non-profits. Topics: project management, fundrasing, community organizing, EU funds accession. 
 
-#### Data analytics 
+#### Networking
+Working in networks of NGOs meant that I had to identify and recruit new members, maintain relations with the existing ones and constantly improve the services delivered to them, find new partnerships and alliances. Look at members as clients and you get a business skill out of it.   
 
-#### Communication 
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Strategic Development
+For both NACAB and ENNA, I identified industry trends and developed projects that moved the organizations forward. For example, within NACAB, I developed a new department based on trending methodollogies, I co-developed 7 community social businesses and got them funded. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April-June 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -44,19 +40,16 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 #### M.A. in Political Science, Central European University, Budapest, 2006
 #### B.A. in Political Science, Babes-Bolyai University, Cluj Napoca,  2005
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
 ## Experience
 
 **ENNA (European Network of National Civil Society Associations), Brussels, Belgium** (July 2016 to February 2017)    
 *Policy and Advocacy Officer*  
-**Institute for Employment Research (IAB, Nuremberg, Germany)** (February 2016 to June 2016)   
-*Your job title* 
-**Company Name** (start_date to end_date)   
-*Your job title* 
-**Company Name** (start_date to end_date)   
-*Your job title* 
+**MACAB (National Association of Citizens Advice Bureaux), Bucharest, Romania** (December 2009 to September 2014)   
+*Strategic Development Officer* 
+**Public Policy Center** (2007 to 2009)   
+*Project Manager* 
+
+## Hobbies and interests
+  **World politics and debates**
+  **Improvization theatre* 
+
