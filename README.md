@@ -1,6 +1,6 @@
 ## Ana Maria Suciu
-Curious, highly motivated and driven by process and time-efficiency values, my career choice of becoming a developer rests on my research on digitalization. A problem-solver at heart, I am thriving on challenges and I love to share ideas and build on partnerships.
-If I'd be a hash, my key - values would be {innovation: :smart cities, civic tech: :user generated data, digitalization: sharing economy}. 
+
+I love to code and am eager to get great at it. It started with a data science project in R, some Code academy tutorials, some Code Wars katas, and culminated with a super-intensive bootcamp, Makers Academy! I am a full stack junior web dev, trained in OOP, TDD, pair programming, with XP values at the core. I am at my best in Ruby, I started feeling friendly with JavaScript and I am equipped with learning-to-code skills which apply everywhere. But my code starts with Capybara, Rspec or Jasmine and follow the red green refactoring loop. 
 
 My professional background is in the field of civic enagement, policy and advocacy. I honestly enjoyed my positions in non-profits, as I got to fulfill many roles, being at the same time researcher, data analyst, PR,  trainer and negotiator dealing with politicians and press. In my 8 years of experience, I started social businesses, trained community organizers, campaigned for social change. 
 
