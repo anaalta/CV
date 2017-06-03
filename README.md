@@ -1,5 +1,7 @@
 ## Ana Maria Suciu
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/anamariasuciu/) | [Blog](https://medium.com/@anamariasuciu)| [Twitter(@anamariasuciu)](https://medium.com/@anamariasuciu)
+
 My passion for code started with a data science project in R, some Code academy tutorials, some Code Wars katas, and culminated with a super-intensive bootcamp, Makers Academy! I am a full stack junior web dev, trained in OOP, TDD, pair programming, with XP values at the core. I am at my best in Ruby, I started feeling friendly with JavaScript and I am equipped with universal learning-to-code skills. 
 
 My professional background is in the field of civic enagement, policy and advocacy. I enjoyed my positions in non-profits, as I got to fulfill many roles, being at the same time researcher, data analyst, PR,  trainer and negotiator dealing with politicians and press. In my 8 years of experience, I started social businesses, trained community organizers, campaigned for social change. 
@@ -38,7 +40,7 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 #### M.A. in Political Science, Central European University, Budapest, 2006
 #### B.A. in Political Science, Babes-Bolyai University, Cluj Napoca,  2005
 
-## Work Experience
+## Experience
 
 **ENNA (European Network of National Civil Society Associations), Brussels, Belgium** (July 2016 to February 2017)    
 *Policy and Advocacy Officer*  
@@ -46,11 +48,6 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 *Strategic Development Officer*   
 **Public Policy Center, Cluj-Napoca, Romania** (2007 to 2009)     
 *Project Manager*  
-
-## My online self
-*My LinkedIn profile: https://www.linkedin.com/in/anamariasuciu/*    
-*My learning to code diary: https://medium.com/@anamariasuciu*    
-*On Twitter: @anamariasuciu*  
 
 ## Hobbies and interests
  **World politics and debates**  
