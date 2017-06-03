@@ -1,6 +1,6 @@
 ## Ana Maria Suciu
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/anamariasuciu/) | [Blog](https://medium.com/@anamariasuciu)| [Twitter(@anamariasuciu)](https://medium.com/@anamariasuciu)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/anamariasuciu/) | [Blog](https://medium.com/@anamariasuciu)| [Twitter](@anamariasuciu)](https://medium.com/@anamariasuciu)
 
 My passion for code started with a data science project in R, some Code academy tutorials, some Code Wars katas, and culminated with a super-intensive bootcamp, Makers Academy! I am a full stack junior web dev, trained in OOP, TDD, pair programming, with XP values at the core. I am at my best in Ruby, I started feeling friendly with JavaScript and I am equipped with universal learning-to-code skills. 
 
