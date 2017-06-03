@@ -8,6 +8,16 @@ My professional background is in the field of civic enagement, policy and advoca
 
 My dream developer job is within an agency or department working on innovating and digitalzing processes for clients, a place where we value impact, inclusiveness and sustainable growth.
 
+## PROJECTS
+
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Rock Paper Scissors](https://github.com/anaalta/rps-challenge)      | The rock, paper, scissors game with 1 user and 1 computer                | Ruby on Sinatra            | Rspec       |
+| [Instagram Challenge](https://github.com/anaalta/instagram-challenge)       | A clone of Instagram - weekend challenge                                        | Ruby, Rails, Postgres           | Rspec, Capybara                    |
+| [MakersBnB](https://github.com/anaalta/MakersBnB)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Ruby         | Rspec, Capybara      |   
+
+You can see all of work thus far on my github <a href="https://github.com/anaalta">profile</a>.
+
 ## Skills
 
 #### Project management
