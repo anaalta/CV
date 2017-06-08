@@ -12,6 +12,7 @@ My dream developer job is within an agency or department working on innovating a
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+|[Acebook](https://github.com/anaalta/acebook-remote-april-2017)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course. I worked on the pictures related functionalities - Paperclip gem and current-user related functionalities with devise. |Ruby on Rails, devise, Paperclip, bcrypt, DataMapper, Postgres| RSpec, Capybara          |
 | [Instagram Challenge](https://github.com/anaalta/instagram-challenge)       | A clone of Instagram - weekend challenge                                        | Ruby, Rails, Postgres           | Rspec, Capybara                    |
 | [MakersBnB](https://github.com/anaalta/MakersBnB)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Ruby         | Rspec, Capybara      |   
 | [Rock Paper Scissors](https://github.com/anaalta/rps-challenge)      | The rock, paper, scissors game with 1 user and 1 computer                | Ruby on Sinatra            | Rspec       |
