@@ -6,7 +6,7 @@ My passion for code started with a data science project in R, some Code academy 
 
 My professional background is in the field of civic engagement, policy and advocacy. I enjoyed my positions in non-profits, as I got to fulfill many roles, being at the same time researcher, data analyst, PR, trainer and negotiator dealing with politicians and press. In my 8 years of experience, I started social businesses, trained community organizers, campaigned for social change. 
 
-My dream developer job is within an agency or department working on innovating and digitalizing processes for clients, a place where we value impact, inclusiveness and sustainable growth.
+My dream developer job is within a company or department working on innovating and digitalizing processes for clients, a place where we value impact, inclusiveness and sustainable growth. 
 
 ## PROJECTS
 
