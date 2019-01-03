@@ -2,13 +2,15 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#languages) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/anamariasuciu/) | [Blog](https://medium.com/@anamariasuciu)| [Twitter](https://twitter.com/anamariasuciu)
 
-My passion for code started with a data science project in R, some Code academy tutorials, some Code Wars katas, and culminated with a super-intensive bootcamp, Makers Academy! I am a full stack junior web dev, trained in OOP, TDD, pair programming, with XP values at the core. I am at my best in Ruby, I started feeling friendly with JavaScript and I am equipped with universal learning-to-code skills. 
+My passion for code started with a data science project in R, some Code academy tutorials, some Code Wars katas, and culminated with a super-intensive bootcamp, Makers Academy! I am a full stack sfotware developr, trained in OOP, TDD, pair programming, with XP values at the core. 
+
+Since July 2017, I work in Adtech, at Adventori, where we make software that personalizes advertising based on client data. While maintianing the MVC framework and an object-oriented mindset, this role thougt me a lot, from new programming languages - Groovy, Java with the Grails framework - to the benefits of good extensive testing in the context of weekly deployment in production, to the advantages of decentralized databases(Cassandra). 
 
 My professional background is in the field of civic engagement, policy and advocacy. I enjoyed my positions in non-profits, as I got to fulfill many roles, being at the same time researcher, data analyst, PR, trainer and negotiator dealing with politicians and press. In my 8 years of experience, I started social businesses, trained community organizers, campaigned for social change. 
 
 My dream developer job is within a company or department working on innovating and digitalizing processes for clients, a place where we value impact, inclusiveness and sustainable growth. 
 
-## PROJECTS
+## PROJECTS developed during my Makers Academy training
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
@@ -20,6 +22,17 @@ My dream developer job is within a company or department working on innovating a
 You can see all of work thus far on my github <a href="https://github.com/anaalta">profile</a>.
 
 ## Skills
+
+#### Programming
+Ruby on Rails, Groovy/Grails, Java, Javascript
+
+Testing: Spock, Capybara, Rspec, Jasmine
+
+DB: Postgres, Cassandra, ElasticSearch
+
+Version control: GitLab, GitHub
+
+IDE: IntelliJ
 
 #### Data analytics & reporting
 This skill helped me deliver actionable research and document strategy. My quantitative tech skills are in R, R Studio, SPSS and STATA, with intermediate knowledge of Tableau for visualization. Here's a sample of my quant research, looking at the impact of Airbnb on local labour markets in the hotel industry in Germany: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874861
@@ -53,7 +66,8 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 English (C2 level), French (A2 level), Romanian (native), Spanish/Italian (basic).
 
 ## Experience
-
+**Adventori, Paris, France** (July 2017 to present)    
+*Software Developer*  
 **ENNA (European Network of National Civil Society Associations), Brussels, Belgium** (July 2016 to February 2017)    
 *Policy and Advocacy Officer*  
 **NACAB (National Association of Citizens Advice Bureaux), Bucharest, Romania** (December 2009 to September 2014)   
