@@ -10,17 +10,6 @@ My professional background is in the field of civic engagement, policy and advoc
 
 My dream developer job is within a company or department working on innovating and digitalizing processes for clients, a place where we value impact, inclusiveness and sustainable growth. 
 
-## PROJECTS developed during my Makers Academy training
-
-| Name                       | Description                                                                   | Technologies                     |  Testing                           |
-| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-|[Acebook](https://github.com/anaalta/acebook-remote-april-2017)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course. I worked on the pictures related functionalities - Paperclip gem and current-user related functionalities with devise. |Ruby on Rails, devise, Paperclip, bcrypt, DataMapper, Postgres| RSpec, Capybara          |
-| [Instagram Challenge](https://github.com/anaalta/instagram-challenge)       | A clone of Instagram - weekend challenge                                        | Ruby, Rails, Postgres           | Rspec, Capybara                    |
-| [MakersBnB](https://github.com/anaalta/MakersBnB)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Ruby         | Rspec, Capybara      |   
-| [Rock Paper Scissors](https://github.com/anaalta/rps-challenge)      | The rock, paper, scissors game with 1 user and 1 computer                | Ruby on Sinatra            | Rspec       |
-
-You can see all of work thus far on my github <a href="https://github.com/anaalta">profile</a>.
-
 ## Skills
 
 #### Programming
@@ -33,6 +22,31 @@ DB: Postgres, Cassandra, ElasticSearch
 Version control: GitLab, GitHub
 
 IDE: IntelliJ
+
+
+## PROJECTS developed during my Makers Academy training
+
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+|[Acebook](https://github.com/anaalta/acebook-remote-april-2017)| Made by the whole team of 17 programmers from 5 countries working in 3 time zones during week 8 (Rails week) of the Makers Course. I worked on the pictures related functionalities - Paperclip gem and current-user related functionalities with devise. |Ruby on Rails, devise, Paperclip, bcrypt, DataMapper, Postgres| RSpec, Capybara          |
+| [Instagram Challenge](https://github.com/anaalta/instagram-challenge)       | A clone of Instagram - weekend challenge                                        | Ruby, Rails, Postgres           | Rspec, Capybara                    |
+| [MakersBnB](https://github.com/anaalta/MakersBnB)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Ruby         | Rspec, Capybara      |   
+| [Rock Paper Scissors](https://github.com/anaalta/rps-challenge)      | The rock, paper, scissors game with 1 user and 1 computer                | Ruby on Sinatra            | Rspec       |
+
+You can see all of work thus far on my github <a href="https://github.com/anaalta">profile</a>.
+
+
+## Experience
+**Adventori, Paris, France** (July 2017 to present)    
+*Software Developer*  
+**ENNA (European Network of National Civil Society Associations), Brussels, Belgium** (July 2016 to February 2017)    
+*Policy and Advocacy Officer*  
+**NACAB (National Association of Citizens Advice Bureaux), Bucharest, Romania** (December 2009 to September 2014)   
+*Strategic Development Officer*   
+**Public Policy Center, Cluj-Napoca, Romania** (2007 to 2009)     
+*Project Manager*  
+
+## Related skills
 
 #### Data analytics & reporting
 This skill helped me deliver actionable research and document strategy. My quantitative tech skills are in R, R Studio, SPSS and STATA, with intermediate knowledge of Tableau for visualization. Here's a sample of my quant research, looking at the impact of Airbnb on local labour markets in the hotel industry in Germany: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874861
@@ -64,16 +78,6 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 
 ## Languages
 English (C2 level), French (A2 level), Romanian (native), Spanish/Italian (basic).
-
-## Experience
-**Adventori, Paris, France** (July 2017 to present)    
-*Software Developer*  
-**ENNA (European Network of National Civil Society Associations), Brussels, Belgium** (July 2016 to February 2017)    
-*Policy and Advocacy Officer*  
-**NACAB (National Association of Citizens Advice Bureaux), Bucharest, Romania** (December 2009 to September 2014)   
-*Strategic Development Officer*   
-**Public Policy Center, Cluj-Napoca, Romania** (2007 to 2009)     
-*Project Manager*  
 
 ## Hobbies and interests
  **World politics and debates**  
