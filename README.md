@@ -2,9 +2,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Languages](#languages) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/anamariasuciu/) | [Blog](https://medium.com/@anamariasuciu)| [Twitter](https://twitter.com/anamariasuciu)
 
-My passion for code started with a data science project in R, some Code academy tutorials, some Code Wars katas, and culminated with a super-intensive bootcamp, Makers Academy! I am a full stack sfotware developr, trained in OOP, TDD, pair programming, with XP values at the core. 
+My passion for code started with a data science project in R, some Code academy tutorials, some Code Wars katas, and culminated with a super-intensive bootcamp, Makers Academy! I am a fullstack software developer, trained in OOP, TDD, pair programming, with XP values at the core. 
 
-Since July 2017, I work in Adtech, at Adventori, where we make software that personalizes advertising based on client data. While maintianing the MVC framework and an object-oriented mindset, this role thougt me a lot, from new programming languages - Groovy, Java with the Grails framework - to the benefits of good extensive testing in the context of weekly deployment in production, to the advantages of decentralized databases(Cassandra) or RESTful serach engines (Elasticsearch). 
+Since July 2017, I work in Adtech, at Adventori, where we make software that personalizes advertising based on client data. While maintaining the MVC framework and an object-oriented mindset, this role thought me a lot, from new programming languages - Groovy, Java with the Grails framework - to the benefits of good extensive testing in the context of weekly deployment in production, to the advantages of decentralized databases(Cassandra) or RESTful search engines (Elasticsearch). 
 
 ## Skills
 
@@ -49,10 +49,10 @@ IDE: IntelliJ
 This skill helped me deliver actionable research and document strategy. My quantitative tech skills are in R, R Studio, SPSS and STATA, with intermediate knowledge of Tableau for visualization. Here's a sample of my quant research, looking at the impact of Airbnb on local labour markets in the hotel industry in Germany: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874861
 
 #### Project management
-I developed my PM skills within non-profits, contributing to projects from inception and fundraising to final delivery. In my view, regular team meetings and constant monitoring and evaluation both internally and with stakeholders are key to successul delivery. As a PM, I lead teams of up to 10 people, I managed relationships with international donors and partners and kept things within the budget. 
+I developed my PM skills within non-profits, contributing to projects from inception and fundraising to final delivery. In my view, regular team meetings and constant monitoring and evaluation both internally and with stakeholders are key to successful delivery. As a PM, I lead teams of up to 10 people, I managed relationships with international donors and partners and kept things within the budget. 
 
 #### Training and facilitating
-I co-designed training courses and workshops to help build capacity for non-profits. Topics: project management, fundrasing, community organizing, EU funds accession. 
+I co-designed training courses and workshops to help build capacity for non-profits. Topics: project management, fundraising, community organizing, EU funds accession. 
 
 #### Partnership building
 Working in networks of NGOs meant that I had to identify and recruit new members, maintain relations with the existing ones and constantly improve the services delivered to them, find new partnerships and alliances. 
@@ -73,6 +73,6 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 English (C2 level), French (A2 level), Romanian (native), Spanish/Italian (basic).
 
 ## Hobbies and interests
- **World politics and debates**  
- **Improvization theatre**   
+ *World politics and debates* 
+ *Improvization theatre*
 
