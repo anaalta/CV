@@ -73,6 +73,6 @@ University of Trento, University of Ljublijana, Corvinus University of Budapest 
 English (C2 level), French (A2 level), Romanian (native), Spanish/Italian (basic).
 
 ## Hobbies and interests
- *World politics and debates* 
+ *World politics and debates*<br> 
  *Improvization theatre*
 
