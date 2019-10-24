@@ -9,7 +9,7 @@ Since July 2017, I work in Adtech, at Adventori, where we make software that per
 ## Skills
 
 #### Programming
-Ruby on Rails, Groovy/Grails, Java, Javascript
+Ruby on Rails, Groovy/Grails, Java, Javascript, Scala, Spark
 
 Testing: Spock, Capybara, Rspec, Jasmine
 
@@ -20,7 +20,7 @@ Version control: GitLab, GitHub
 IDE: IntelliJ
 
 
-## DEV PROJECTS
+## Projects
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
